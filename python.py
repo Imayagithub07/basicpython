@@ -3,7 +3,7 @@
 # input statement is used for to ask the user to give the data or information ex : name
 #v=input(' ENTER YOUR NAME : ')
 print( 'WELCOME')
-#mutiple varibales and multiple inputs using split
+#mutiple varibales and multiple inputs in single file 
 a,b,c=input(' ENTER YOUR NAME :'),input(' ENTER YOUR AGE :'),input(' ENTER YOUR GENDER :')
 print(' YOUR NAME    :',a)
 print(' YOUR AGE     :',b)
